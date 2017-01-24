@@ -1,0 +1,21 @@
+body {
+  background-color: dodgerblue;
+}
+h1, h2, h3, h4, h5, h6 {
+  color: burlywood;
+  text-align: center;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  padding: 2px 16px;
+  width: 100%;
+  margin: 0;
+  background-color: green;
+}
+.card p {
+  color: black;
+  text-align: center
+  font-family: sans-serif;
+}
