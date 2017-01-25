@@ -33,6 +33,7 @@ h1, h2, h3, h4, h5, h6 {
   text-align: center;
   text-decoration: none;
   color: black;
+  font-family: sans-serif;
   padding: 14px 16px;
 }
 .nav li a:hover {
